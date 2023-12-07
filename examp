@@ -4,7 +4,10 @@ its interesting..
 
 today revert session
 testing revert
+<<<<<<< HEAD
 
 so second change would be this
 =======
 >>>>>>> parent of 5fd19ad (first change of examp)
+=======
+>>>>>>> parent of 0d9f865 (second change of examp)
