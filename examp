@@ -1,7 +1,10 @@
 hi im learning github
 its interesting..
+<<<<<<< HEAD
 
 today revert session
 testing revert
 
 so second change would be this
+=======
+>>>>>>> parent of 5fd19ad (first change of examp)
